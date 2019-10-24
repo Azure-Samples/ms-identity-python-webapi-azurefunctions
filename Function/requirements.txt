@@ -1,0 +1,6 @@
+flask
+python-dotenv
+python-jose-cryptodome
+flask-cors
+six
+azf-wsgi

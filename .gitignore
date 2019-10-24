@@ -20,6 +20,8 @@ parts/
 sdist/
 var/
 wheels/
+bin/
+obj/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -102,3 +104,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Mac
+.DS_Store
